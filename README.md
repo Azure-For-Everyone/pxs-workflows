@@ -1,6 +1,8 @@
 # PXS Workflows — Hands-on Lab
 
-This lab uses the PXS Workflows UI as a front end [https://aka.ms/pxs-workflows-demo](https://aka.ms/pxs-workflows-demo). **You don't change the UI.** All the work happens in **Azure** — Logic App **workflows** and Logic App **automations** backed by **Azure Functions**.
+This lab uses the [PXS Workflows UI](https://aka.ms/pxs-workflows-demo) to interact with your workflows and functions. **You don't change the UI.** All the work happens in **Azure** — Logic App **workflows** and Logic App **automations** backed by **Azure Functions**.
+
+![Example](./example.png)
 
 You are given use cases (below) and implement them on Azure. The UI already
 sends the right requests; your job is to build the destinations that receive

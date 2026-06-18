@@ -53,6 +53,8 @@ Useful facts:
 - **Stretch:** validate required fields and return a non-`2xx` when something is
   missing, then confirm the UI surfaces the error.
 
+<img width="470" height="246" alt="image (3)" src="https://github.com/user-attachments/assets/c953e3b0-8821-4611-8b95-4a9af6825844" />
+
 ---
 
 ## Story 2 — "Generate employee ID" automation
